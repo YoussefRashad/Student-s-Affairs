@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1528474652 source:e:\c test\project\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1529369597 source:c:\users\dell\desktop\project\project\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	"affairs.h"
+
+1529371052 c:\users\dell\desktop\project\project\affairs.h
+	<ctype.h>
+
